@@ -1,0 +1,30 @@
+body{
+    background-color: #E1D7C6;
+}
+h1{
+    color:#65647C ;
+}
+image{
+    background-color: #65647C;
+}
+p{
+    color: #85586F;
+}
+.circle{
+    border-radius: 100%;
+}
+
+/* in css we have theree types of selectors tag,class and id . the above is an example for tag selectors
+
+in class we add a class attribute to the html tag we ll give a name to it ex in image tag if i gave class = "briyani" in css file 
+i need to add a .briyani to style the specific content 
+of that tag
+
+in id selector an id attribute is added to the html tag well give a name to it ex if i give id="briyani", in css file 
+i  need to add #briyani to style the specific content of the tag where i is specific it can ony be sued one in a single 
+file but class can be used n number of times to group similar tags to write a single css code
+
+
+selector higherarchy --  id >> class >> tag 
+
+in css type ---  inline >> internal >> external css*/
