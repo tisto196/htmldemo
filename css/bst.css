@@ -13,6 +13,10 @@ p{
 .circle{
     border-radius: 100%;
 }
+a:hover{
+    color: brown;
+
+}
 
 /* in css we have theree types of selectors tag,class and id . the above is an example for tag selectors
 
